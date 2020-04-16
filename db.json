@@ -9,13 +9,13 @@
     {
       "id": 2,
       "borough": "Knightsbridge",
-      "postcode": "SW1W 0AD"
+      "postcode": "SW1W 0AD",
       "weather": "cloudy"
     },
     {
       "id": 3,
       "borough": "Barnes",
-      "postcode": "SW13 0BH"
+      "postcode": "SW13 0BH",
       "weather": "rainy"
     },
   ]
